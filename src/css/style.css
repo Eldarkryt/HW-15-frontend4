@@ -1,0 +1,32 @@
+.pretitle-error {
+  color: white;
+  text-align: center;
+  padding-top: 30px;
+}
+.container-error {
+  background-color: red;
+  width: 300px;
+  height:  100px;
+  border: brown 1px;
+  border-radius: 50px;
+  margin: auto;
+padding: auto;
+}
+.one-countr {
+display: flex;
+justify-content: center;
+flex-direction: column;
+margin: auto;
+padding: auto;
+}
+.name-Countr {
+margin-left: 170px;
+font-size: 50;
+}
+
+.img-countr {
+    width: 300px;
+    position: relative;
+    bottom: 150px;
+    left: 300px;
+}

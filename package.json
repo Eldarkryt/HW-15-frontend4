@@ -1,0 +1,20 @@
+{
+  "name": "hw-15-frontend4",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Eldar",
+  "type": "module",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "@parcel/transformer-inline-string": "^2.16.4",
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.10",
+    "lodash.debounce": "^4.0.8",
+    "pnotify": "^5.2.0"
+  }
+}
